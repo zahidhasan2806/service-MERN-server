@@ -118,7 +118,7 @@ async function run() {
 
 
 
-        console.log('database connected successfully');
+        console.log('connected successfully');
 
     } finally {
         //await client.close();
